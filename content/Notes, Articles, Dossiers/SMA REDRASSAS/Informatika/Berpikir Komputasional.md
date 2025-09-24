@@ -1,3 +1,10 @@
+---
+profileName: Main
+postId: 17
+postType: post
+categories:
+  - 1
+---
 https://visualgo.net/en
 # Definisi
 **Berpikir Komputasional** -> Menyelesaikan masalah dengan efisien dan optimal.
@@ -17,8 +24,6 @@ P -> Pattern Recognition -> Melihat dan mengenali pola dari masalah serupa yang 
 Dalam [ilmu komputer](https://id.wikipedia.org/wiki/Ilmu_komputer "Ilmu komputer"), **larik** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _array_) adalah suatu [tipe data](https://id.wikipedia.org/wiki/Tipe_data "Tipe data") terstruktur yang dapat menyimpan banyak [data](https://id.wikipedia.org/wiki/Data "Data") dengan suatu nama (homogen) yang sama dan menempati tempat di [memori](https://id.wikipedia.org/wiki/Memori "Memori") yang berurutan ([kontigu](https://id.wikipedia.org/w/index.php?title=Kontigu&action=edit&redlink=1 "Kontigu (halaman belum tersedia)")) serta bertipe data sama pula.
 
 Larik dapat diakses berdasarkan [indeksnya](https://id.wikipedia.org/wiki/Indeks "Indeks"). Indeks larik umumnya dimulai dari 0 dan ada pula yang dimulai dari angka bukan 0. Pengaksesan larik biasanya dibuat dengan menggunakan perulangan (_looping_).
-
-![[Pasted image 20250910205144.png]]
 ## Linked List
 **Senarai berantai** atau **daftar bertaut** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _linked list_) dalam [ilmu komputer](https://id.wikipedia.org/wiki/Ilmu_komputer "Ilmu komputer") merupakan sebuah [struktur data](https://id.wikipedia.org/wiki/Struktur_data "Struktur data") yang digunakan untuk menyimpan sejumlah objek data biasanya secara terurut sehingga memungkinkan penambahan, pengurangan, dan pencarian atas [unsur](https://id.wikipedia.org/wiki/Elemen "Elemen") data yang tersimpan dalam senarai dilakukan secara lebih efektif. Pada praktiknya sebuah struktur data memiliki unsur yang digunakan untuk saling menyimpan rujukan antara satu dengan lainnya sehingga membentuk sebuah senarai abstrak, tiap-tiap unsur yang terdapat pada senarai abstrak ini sering kali disebut sebagai _node_. karena mekanisme rujukan yang saling terkait inilah disebut sebagai senarai berantai.
 
@@ -28,7 +33,7 @@ _Sebuah senarai berantai dengan tiap-tiap node yang terdiri atas dua unsur, data
 Senarai berantai merupakan bentuk struktur data paling umum dan sederhana yang banyak digunakan untuk mengimplementasikan model struktur data lainnya, termasuk antrian, _stack_, ataupun [larik](https://id.wikipedia.org/wiki/Array "Array") asosiatif.
 ## Stack
 Dalam [ilmu komputer](https://id.wikipedia.org/wiki/Ilmu_komputer "Ilmu komputer"), **tumpukan** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _stack_) merupakan sebuah koleksi objek yang menggunakan prinsip _**LIFO**_ (_**Last In First Out**_), yaitu data yang terakhir kali dimasukkan akan pertama kali keluar dari tumpukan tersebut. Operasi untuk memasukkan data biasa disebut _push_ dan operasi untuk mengeluarkan biasanya disebut _pop_. Tumpukan dapat diimplementasikan sebagai [senarai berantai](https://id.wikipedia.org/wiki/Senarai_berantai "Senarai berantai") atau [larik](https://id.wikipedia.org/wiki/Larik "Larik"). Tumpukan tergolong [struktur data linear](https://id.wikipedia.org/w/index.php?title=Struktur_data_linear&action=edit&redlink=1 "Struktur data linear (halaman belum tersedia)") dan operasi _push_ dan _pop_ hanya bisa dilakukan di satu ujung struktur yang biasa disebut _top_ dari tumpukan. Untuk melihat data yang ada di top tanpa mengeluarkannya, biasanya dilakukan menggunakan operasi _peek_.
-![[Pasted image 20250910210738.png]]
+
 ## Queue
 Dalam [ilmu komputer](https://id.wikipedia.org/wiki/Ilmu_komputer "Ilmu komputer"), **antrean** adalah koleksi dari data-data yang memiliki urutan dan hanya bisa diubah dengan menambahkan data di satu ujung dan mengeluarkan data di ujung lainnya. Biasanya, ujung di mana elemen bisa ditambahkan disebut _back_, _tail_, atau _rear_ dari antrean sementara ujung di mana elemen bisa dikeluarkan disebut _head_ atau _front_ dari antrean, mirip dengan kata-kata yang digunakan apabila orang-orang berbaris dalam antrean.
 

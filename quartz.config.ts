@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Erov Dossiers",
+    pageTitleSuffix: "Welcome my friend",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'posthog', apiKey: 'phc_VhjPOd0J6yQVPaPqfV7Faine1LEwz9HQMXf0AUoIuhC', host: 'https://eu.i.posthog.com'
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",

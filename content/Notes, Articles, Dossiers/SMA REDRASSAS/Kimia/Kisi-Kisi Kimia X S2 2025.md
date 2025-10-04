@@ -1,3 +1,10 @@
+---
+profileName: o2wp
+postId: 145
+postType: post
+categories:
+  - 1
+---
 # Bentuk model atom tiap peneliti perkembangan teori atom
 1. Model Atom John Dalton 
 	   Sekitar tahun 1803, ahli kimia Inggris, namanya John Dalton membawa teori Democritus ke dalam teori atom modern pertama. Setelah itu, tahun 1808, ia baru mempublikasikan teorinya tentang atom lewat buku yang berjudul _A New System of Chemical Philosophy._

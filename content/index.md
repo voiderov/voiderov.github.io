@@ -1,6 +1,5 @@
 ---
 title: Welcome to Quartz
 ---
+Welcome friends. Please contact Erov for any bugs or diffculties, danke.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.

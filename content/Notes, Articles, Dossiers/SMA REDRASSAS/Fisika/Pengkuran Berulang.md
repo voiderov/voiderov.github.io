@@ -4,7 +4,7 @@
 
 ## Pengukuran Berulang
 
-**Pengukuran berulang** adalah metode untuk memperoleh hasil pengukuran yang lebih teliti dengan cara mengukur suatu besaran secara berulang kali menggunakan alat ukur yang sama, kemudian menghitung nilai rata-rata dan ketidakpastian pengukurannya.
+Adalah metode untuk memperoleh hasil pengukuran yang lebih teliti dengan cara mengukur suatu besaran secara berulang kali menggunakan alat ukur yang sama, kemudian menghitung nilai rata-rata dan ketidakpastian pengukurannya.
 
 Metode ini dilakukan untuk mengurangi kesalahan acak dan mendekati nilai sebenarnya.
 

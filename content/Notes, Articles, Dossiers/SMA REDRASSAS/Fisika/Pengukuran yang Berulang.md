@@ -1,8 +1,4 @@
-
-
----
-
-## Pengukuran Berulang
+# Pengukuran Berulang
 
 Adalah metode untuk memperoleh hasil pengukuran yang lebih teliti dengan cara mengukur suatu besaran secara berulang kali menggunakan alat ukur yang sama, kemudian menghitung nilai rata-rata dan ketidakpastian pengukurannya.
 
@@ -10,7 +6,7 @@ Metode ini dilakukan untuk mengurangi kesalahan acak dan mendekati nilai sebenar
 
 ---
 
-### Langkah-langkah Pengukuran Berulang
+## Langkah-langkah Pengukuran Berulang
 
 1. Lakukan pengukuran terhadap suatu besaran sebanyak ( n ) kali.
     

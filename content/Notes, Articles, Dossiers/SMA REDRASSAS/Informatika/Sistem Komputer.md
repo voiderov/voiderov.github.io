@@ -116,6 +116,29 @@ Tahun 1946 komputer dengan stored-program concept dipublikasikasikan, yang kemud
 Kelebihan -> Sederhana, fleksibel, mudah diprogram
 Kekurangan -> Bottleneck Von Neumann (satu jalur akses CPU dan memori yang membuat slowdown)
 
+        ┌───────────────┐
+        │   Memori      │
+        │ (Data+Instr)  │
+        └─────┬─────────┘
+              │
+              ▼
+      ┌───────────────┐
+      │   CPU         │
+      │ ┌───────────┐ │
+      │ │ Control   │ │
+      │ │ Unit      │ │
+      │ └────┬──────┘ │
+      │      │         │
+      │ ┌────▼──────┐ │
+      │ │   ALU     │ │
+      │ └────┬──────┘ │
+      │      │         │
+      └──────┼─────────┘
+             │
+             ▼
+         Output / I/O
+
+
 ## Ciri-Ciri Arsitektur Von Neumann
 1. Memiliki unit penyimpanan tunggal (memory)
 

@@ -136,3 +136,23 @@ If someone say 5 meters north → Vector
 # Representasi Vektor
 
 Vektor direpresentasikan dengan dua cara yaitu melalui cara penggambaran anak panah yang menyatakan besar dan arah serta dalam komponen-kom- ponen pembentuknya yang merupakan hasil penguraian dari vektor tersebut.
+
+| Quadrant | Angle ($\theta^\circ$) | Angle ($\theta\text{ rad}$) | $\sin(\theta)$ | $\cos(\theta)$ | $\tan(\theta)$ |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Quadrantal** | $0^\circ$ | $0$ | $0$ | $1$ | $0$ |
+| **Quadrant I** | $30^\circ$ | $\frac{\pi}{6}$ | $\frac{1}{2}$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{3}}{3}$ |
+| | $45^\circ$ | $\frac{\pi}{4}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{2}}{2}$ | $1$ |
+| | $60^\circ$ | $\frac{\pi}{3}$ | $\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$ | $\sqrt{3}$ |
+| **Quadrantal** | $90^\circ$ | $\frac{\pi}{2}$ | $1$ | $0$ | $\text{Undefined}$ |
+| **Quadrant II** | $120^\circ$ | $\frac{2\pi}{3}$ | $\frac{\sqrt{3}}{2}$ | $-\frac{1}{2}$ | $-\sqrt{3}$ |
+| | $135^\circ$ | $\frac{3\pi}{4}$ | $\frac{\sqrt{2}}{2}$ | $-\frac{\sqrt{2}}{2}$ | $-1$ |
+| | $150^\circ$ | $\frac{5\pi}{6}$ | $\frac{1}{2}$ | $-\frac{\sqrt{3}}{2}$ | $-\frac{\sqrt{3}}{3}$ |
+| **Quadrantal** | $180^\circ$ | $\pi$ | $0$ | $-1$ | $0$ |
+| **Quadrant III** | $210^\circ$ | $\frac{7\pi}{6}$ | $-\frac{1}{2}$ | $-\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{3}}{3}$ |
+| | $225^\circ$ | $\frac{5\pi}{4}$ | $-\frac{\sqrt{2}}{2}$ | $-\frac{\sqrt{2}}{2}$ | $1$ |
+| | $240^\circ$ | $\frac{4\pi}{3}$ | $-\frac{\sqrt{3}}{2}$ | $-\frac{1}{2}$ | $\sqrt{3}$ |
+| **Quadrantal** | $270^\circ$ | $\frac{3\pi}{2}$ | $-1$ | $0$ | $\text{Undefined}$ |
+| **Quadrant IV** | $300^\circ$ | $\frac{5\pi}{3}$ | $-\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$ | $-\sqrt{3}$ |
+| | $315^\circ$ | $\frac{7\pi}{4}$ | $-\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{2}}{2}$ | $-1$ |
+| | $330^\circ$ | $\frac{11\pi}{6}$ | $-\frac{1}{2}$ | $\frac{\sqrt{3}}{2}$ | $-\frac{\sqrt{3}}{3}$ |
+| **Quadrantal** | $360^\circ$ | $2\pi$ | $0$ | $1$ | $0$ |

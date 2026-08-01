@@ -5,7 +5,7 @@ Status: In progress
 
 # Sel
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image.png)
 
 ## Organisasi Kehidupan
 
@@ -97,7 +97,7 @@ Pada tahun **1665**. Kemudian, dua ilmuwan Jerman – **Schwann dan Schleiden** 
 
 Sebenarnya, **belum diketahui secara pasti** berapa jumlah sel manusia. Sampai saat ini, para ahli masih meneliti lebih lanjut terkait hal ini. Tapi, **diperkirakan rata-rata** tubuh manusia memiliki sekitar **30–40 triliun** sel.
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%201.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%201.png)
 
 ### 1. Sel Prokariotik
 
@@ -109,7 +109,7 @@ Sel prokariotik adalah organisme pertama yang hidup di bumi. Organisme yang term
 - Ada yang bersifat autotrof dan heterotrof.
 - Reproduksi secara aseksual: pembelahan biner, transformasi, konjugasi, dan transduksi
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%202.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%202.png)
 
 ### 2. Sel Eukariotik
 
@@ -125,15 +125,15 @@ Berikut ini adalah beberapa **karakteristik** dari **sel eukariotik**:
 - Reproduksi secara mitosis (sel tubuh) maupun meiosis (sel kelamin).
 - Dapat bersifat autotrof atau heterotrof.
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%203.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%203.png)
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%204.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%204.png)
 
 Organel sel adalah benda-benda kecil dari struktur sel yang letaknya ada di sitoplasma dan “mereka” bekerjasama untuk mejaga sel dapat menjalankan aktivitasnya.
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%205.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%205.png)
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%206.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%206.png)
 
 ## Struktur Sel
 
@@ -141,9 +141,9 @@ Organel sel adalah benda-benda kecil dari struktur sel yang letaknya ada di sito
 
 Membran sel adalah lapisan terluar yang membungkus dan menjaga komponen sel di dalamnya. Lapisan membran sel disusun dari senyawa-senyawa kimia, mulai dari lipid (fosfolipid), protein, sampai karbohidrat.
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%207.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%207.png)
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%208.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%208.png)
 
 Sifat membran sel yaitu semipermeabel karena adanya stuktur fosfolipid. Semipermeabel adalah sifat membran sel di mana hanya zat tertentu saja yang boleh masuk ke dalam sel.
 
@@ -151,13 +151,13 @@ Sifat membran sel yaitu semipermeabel karena adanya stuktur fosfolipid. Semipe
 
 Protoplasma ini terdiri dari nukleus, sitoplasma, dan sitoskeleton, dan letaknya di dalam dan mengelilingi membran sel. Protoplasma mengandung senyawa-senyawa kimia seperti komponen organik (Karbohidrat, Protein, Lemak dan Asam Nukleat) dan komponen anorganik (Air, Vitamin, dan Mineral).
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%209.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%209.png)
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%2010.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%2010.png)
 
 ### Dinding Sel
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%2011.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%2011.png)
 
 Beberapa fungsi dinding sel, yaitu sebagai pelindung komponen di dalam sel, yang memberikan bentuk sel, membantu menjaga keseimbangan cairan (regulasi osmotik), dan juga mencegah sel kehilangan air.
 
@@ -175,7 +175,7 @@ Membran sel terdiri dari lapisan lipit ganda (membran fosfolipid). Fungsinya, u
 
 ### Inti Sel (Nukleus)
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%2012.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%2012.png)
 
 Nukleus atau ‘inti’ sel adalah bagian yang menjadi pusat kontrol sel. Nukleus atau inti sel ini, dibungkus dan dilindungi oleh yang namanya membran inti.
 
@@ -183,11 +183,11 @@ Fungsi utama inti sel adalah sebagai pusat komando yang menyimpan materi geneti
 
 ### Retikulum Endoplasma
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%2013.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%2013.png)
 
 Retikulum endoplasma (RE) tersusun dari selapis membran yang berlekuk-lekuk dan posisinya di dekat atau menempel dengan inti sel. Organel sel ini terdapat di sel tumbuhan dan sel hewan.
 
-![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Menjelajah%20Sel_images/image%2014.png)
+![image.png](Wiki%20of%20My%20Life/Persiapan%20Belajar%20Kelas%20XI/Biologi/Biologi_images/image%2014.png)
 
 RE kasar kan ditempeli ribosom, maka fungsinya berkaitan untuk sintesis protein. Sedangkan RE halus berfungsi untuk sintesis lemak, metabolisme karbohidrat, dan detoksifikasi racun.
 

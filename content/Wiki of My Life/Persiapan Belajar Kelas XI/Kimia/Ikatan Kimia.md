@@ -488,3 +488,88 @@ To distinguish between ionic and covalent bonds quickly, rely on the **Element T
 | **Electrical Conductivity** | Conducts when molten or dissolved in water | Generally poor conductors |
 
 ![image.png](Ikatan%20Kimia/image%202.png)
+# Ikatan Kovalen
+Chemistry is the study of matter in all its forms. So, it’s no surprise that chemists need different terms to describe the various ways matter can be structured. Let’s take a closer look at what some of those terms mean.
+
+## Molecules
+
+A **molecule** is a group of two or more atoms covalently bonded together. Some example molecules are listed in the table below.
+
+|Name|Chemical formula|Lewis structure|Ball-and-stick model|
+|---|---|---|---|
+|Molecular oxygen|‍\[\ce{O2}\]|![Two O's connected by a double line. There are two pairs of dots next to each O.](https://cdn.kastatic.org/ka-content-images/15d383d4d729ce64266ca86e821779690d7d5e83.svg)|![Two red balls connected by two gray sticks](https://cdn.kastatic.org/ka-content-images/3fa0d9e97477b099eef2be738b74a65e99562469.png)|
+|Water|‍\[\ce{H2O}\]|![An O connected to two H's by single lines. There are two pairs of dots next to the O.](https://cdn.kastatic.org/ka-content-images/23e5ede2f679ec1fd1cc6f0cfa26742bfab35345.svg)|![A red ball connected to two white balls, each by one gray stick. The molecule has a V shape.](https://cdn.kastatic.org/ka-content-images/3ad8e20821d90fe50e8025716d03db8280e5502e.png)|
+|Carbon dioxide|‍\[\ce{CO2}\]|![A C connected to two O's, each by a double line. There are two pairs of dots next to each O.](https://cdn.kastatic.org/ka-content-images/f3fc67d66b6eccc658636ee84d8950b2b35f25de.svg)|![A black ball is connected to two red balls, one on each side. Each red ball is connected to the black ball by two gray sticks. The molecule has a straight shape.](https://cdn.kastatic.org/ka-content-images/92dae54dd949f1ba3e85aabbc0fa8944273d0ad5.png)|
+|Methane|‍\[\ce{CH4}\]|![A C connected to four H's, each by a single line.](https://cdn.kastatic.org/ka-content-images/84acf1f96e1242284f96b6871fd15cb04aad5ecc.svg)|![A black ball is connected to four white balls, each by one gray stick. The white balls stick out in different directions, forming a 3D tetrahedral shape.](https://cdn.kastatic.org/ka-content-images/d7f507ef384d269ae85837d5c28032464367690b.png)|
+|Ammonia|‍\[\ce{NH3}\]|![An N connected to three H's, each by a single line. There is a pair of dots next to the N.](https://cdn.kastatic.org/ka-content-images/1ccf13821dbc87f50f01519c17c378be17f81817.svg)|![A blue ball is connected to three white balls, each by one gray stick. The white balls are all slightly below the blue ball in different directions, forming the shape of a shallow mountain.](https://cdn.kastatic.org/ka-content-images/7bd7000f74a71aebd1c9b47e6e1dae511b9c9f7a.png)|
+
+Samples of molecular substances consist of lots of individual molecules. For example, an oxygen tank is full of individual ‍\[\ce{O2}\] molecules, and a glass of water is full of individual ‍\[\ce{H2O}\] molecules.
+
+### Diatomic elements
+
+Some elements do not exist alone in nature as individual atoms. These **diatomic elements** are found as a covalently-bonded pairs, like molecular oxygen ‍\[\ce{(O2)}\] in the table above.
+
+Other common diatomic elements include ‍\[\ce{H2}\], ‍\[\ce{N2}\], ‍\[\ce{F2}\], ‍\[\ce{Cl2}\], ‍\[\ce{I2}\] and ‍\[\ce{Br2}\].
+
+Diatomic elements are considered molecules, but _not_ compounds. A compound must have two _different_ elements bonded together.
+
+### Covalent network solids
+
+Though many covalently bonded substances consist of molecules, some do not. Instead, some covalent substances are bonded together in a network.
+
+An example of a **covalent network solid** is silica ‍\[\ce{(SiO2)}\], the main component of most sand. An atomic model of silica is shown below, consisting of a network of silicon and oxygen atoms.
+
+![Many red and gray balls connected in a net-like pattern. Each connection consists of a single gray stick.](https://cdn.kastatic.org/ka-content-images/23eebebf32ef3490b087dff5b366993588b8c093.png)
+
+_Silica is a network of silicon atoms (gray) and oxygen atoms (red) covalently bonded to each other._
+
+The chemical formula for silica tells us that it contains two oxygen atoms for every one silicon atom. But, the atoms are connected in a network rather than individual ‍\[\ce{SiO2}\] molecules.
+
+So, a grain of sand is essentially one giant molecule! But typically, chemists do NOT call network solids like silica "molecules."
+
+## Salts
+
+In chemistry, a **salt** is a substance composed of cations and anions ionically bonded to each other.
+
+We've seen that covalently bonded substances can form molecules or network solids, but what about ionically bonded substances?
+
+Ionic bonds form between oppositely charged ions. So, while you may think of a salt like sodium chloride ‍\[\ce{(NaCl)}\] as being composed of individual sodium chloride “molecules,” it’s not.
+
+A ‍\[\ce{Na^+}\] ion attracts not just one ‍\[\ce{Cl^-}\], but all the ‍\[\ce{Cl^-}\] ions that surround it. This is true of all the ions in the solid. So, ionic solids arrange themselves in a repeating lattice structure, like the model ‍\[\ce{NaCl}\] lattice shown below.
+
+![A cube-shaped lattice consisting of smaller purple balls and larger green balls arranged in an alternating pattern.](https://cdn.kastatic.org/ka-content-images/3f903df61d7027558f5c480436c19fdd8e72c3f9.png)
+
+_Sodium chloride is a lattice of sodium ions (smaller purple) and chloride ions (larger green), attracting each other in a repeating pattern._
+
+## Compounds
+
+Another common term in chemistry is "compound." A **compound** is a chemical substance composed of two or more different elements. Compounds can be covalently or ionically bonded.
+
+For example, ‍\[\ce{H2O}\] is a **covalent compound** because it contains hydrogen and oxygen (different elements) covalently bonded together. ‍\[\ce{SiO2}\] is also a covalent compound.
+
+‍\[\ce{NaCl}\] is an example of an **ionic compound** because it contains sodium and chlorine (different elements) ionically bonded together. In fact, all salts are compounds because only ions of opposite charge—and therefore, different elements—attract each other.
+
+However, not all chemical substances are compounds. For example, helium gas is composed solely of individual ‍\[\ce{He}\] atoms, so it is neither a molecule nor a compound.
+
+Similarly, oxygen gas ‍\[\ce{(O2)}\] is composed entirely of oxygen atoms. Each ‍\[\ce{O2}\] is a molecule, but not a compound.
+
+| Name            | Chemical formula | Molecule? | Salt? | Compound? |
+| --------------- | ---------------- | --------- | ----- | --------- |
+| Helium gas      | ‍\[\ce{He}\]     | no        | no    | no        |
+| Oxygen gas      | ‍\[\ce{O2}\]     | yes       | no    | no        |
+| Water           | ‍\[\ce{H2O}\]    | yes       | no    | yes       |
+| Sodium chloride | $\ce{NaCl}$      | no        | yes   | yes       |
+
+## Chemicals
+
+Last but not least, let's talk about chemicals. A **chemical** (or **chemical substance**) is any substance with a definite composition. In other words, we can describe what elements the substance is made of, their ratio, and how they're arranged.
+
+For example, water is a chemical because it always consists of one oxygen atom bonded to two hydrogen atoms. Every water molecule has the same composition, whether it's in the ocean, in a cloud, or on Mars.
+
+All of the preceding categories—molecules, salts, and compounds—are chemicals. Even pure elemental substances which do not fall into any of those categories (e.g. ‍\[\ce{He}\] gas) are chemicals.
+
+In some situations, you may see the word "chemical" used to refer exclusively to substances that are harmful or made in a laboratory. For example, it may sound bad if you hear that "chemicals" are mixed into your drinking water. This is indeed bad if the chemicals are toxic. From a chemistry perspective though, even pure water is a chemical.
+
+Because "chemical" is such a broad term and can mean different things to different people, chemists are typically more specific when referring to substances. They use names and formulas to describe exactly what a substance is composed of.
+
+So ironically, "chemical" is not the best word to use in chemistry! There are more descriptive options to choose from.

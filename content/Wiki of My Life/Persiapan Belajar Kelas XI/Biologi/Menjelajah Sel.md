@@ -210,6 +210,57 @@ Fungsi dari badan golgi antara lain untuk membentuk kantung (vesikula) untuk sek
 ![image.png](image%2016.png)
 
 Fungsi mitokondria itu sangat penting untuk sel karena sebagai tempat respirasi seluler, menghasilkan energi/ATP, dan molekul pembawa energi siap pakai.
+Mitokondria merupakan organel bermembran ganda yang berfungsi sebagai pusat metabolisme energi seluler. Organel ini bertanggung jawab memproduksi molekul Adenosin Trifosfat (ATP) melalui proses respirasi seluler aerobik dan fosforilasi oksidatif.
+#### Analisis Anatomi Subseluler dan Kompartementalisasi Mitokondria
+
+##### 1. Membran Luar (Outer Membrane)
+
+###### A. Komposisi Fisikokimia
+
+Membran luar tersusun atas lapisan ganda fosfolipid (_phospholipid bilayer_) dengan rasio protein dan lipid berkisar $1:1$. Protein integral utama yang mendominasi membran ini adalah **porin**, yakni saluran transmembran berukuran besar.
+
+###### B. Peran Fisiologis
+
+Membran ini berfungsi sebagai filter selektif pasif yang memungkinkan difusi molekul terlarut, ion, dan metabolit hingga ukuran $5\,\text{kDa}$. Selain itu, membran luar memelihara integritas struktural mitokondria dari matriks sitosolik.
+
+##### 2. Ruang Antarmembran (Intermembrane Space)
+
+###### A. Karakteristik Cairan
+
+Ruang ini merupakan kompartemen akuatik yang terletak di antara membran luar dan membran dalam. Karena sifat permeabel dari membran luar, komposisi molekul kecil di ruang ini hampir setara dengan sitosol.
+
+###### B. Mekanisme Kemiosmosis
+
+Ruang antarmembran berfungsi sebagai reservoir tempat akumulasi proton ($\text{H}^+$) yang dipompa oleh kompleks rantai transpor elektron. Konsentrasi $\text{H}^+$ yang tinggi menciptakan gradien elektrokimia (gaya gerak proton) yang diperlukan untuk sintesis ATP.
+
+##### 3. Membran Dalam dan Krista (Inner Membrane & Cristae)
+
+###### A. Struktur Lipatan Krista
+
+Membran dalam mengalami pemutaran dan invaginasi membentuk lipatan-lipatan yang disebut **krista**. Struktur ini memperluas rasio permukaan terhadap volume sel guna memaksimalkan kapasitas tempat berlangsungnya reaksi respirasi seluler.
+
+###### B. Kompleks Protein Transpor Elektron
+
+Membran dalam kaya akan fosfolipid _kardiolipin_ yang menjadikannya sangat kedap terhadap ion. Di membran ini tertanam Kompleks I hingga IV dari **Rantai Transpor Elektron** serta enzim **ATP Synthase** (Kompleks $\text{F}_o\text{F}_1$).
+
+##### 4. Matriks Mitokondria (Mitochondrial Matrix)
+
+###### A. Lingkungan Enzimatik Internal
+
+Matriks adalah kompartemen paling dalam berwujud gel kental yang kaya akan enzim metabolik. Di dalamnya berlangsung tahapan penting seperti **Siklus Asam Sitrat (Siklus Krebs)**, dekarboksilasi oksidatif piruvat, serta $\beta$-oksidasi asam lemak.
+
+###### B. Sistem Genetik Mandiri (Semiautonom)
+
+Matriks menyimpan materi genetik berupa **DNA sirkular (mtDNA)**, RNA, dan ribosom berskala $70\text{S}$. Keberadaan komponen ini memungkinkan mitokondria melakukan sintesis protein internal serta mereplikasi diri secara independen dari siklus inti sel.
+
+## Ringkasan Kompartemen dan Peran Fisiologis
+
+| **Kompartemen / Bagian**   | **Komposisi Utama**                      | **Fungsi Fisiologis**                                                          |
+| -------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------ |
+| **Membran Luar**           | Porin, lipid ($1:1$)                     | Filtrasi molekul kecil dan komunikasi sitosolik                                |
+| **Ruang Antarmembran**     | Akumulasi ion $\text{H}^+$, Sitokrom c   | Pembentukan gradien elektrokimia proton                                        |
+| **Membran Dalam / Krista** | Kardiolipin, Kompleks ETC, ATP Synthase  | Tempat fosforilasi oksidatif dan transpor elektron                             |
+| **Matriks**                | Enzim Krebs, mtDNA, Ribosom $70\text{S}$ | Oksidasi substrat (Siklus Krebs, $\beta$-oksidasi) & ekspresi genetik internal |
 
 ### Plastida
 
@@ -238,52 +289,55 @@ Leukoplas merupakan plastida yang tidak berwarna. Fungsinya untuk menyimpan cada
 ![image.png](image%2020.png)
 
 Vakuola berisi getah yang mengandung makanan dan juga zat buangan lain di sel tumbuhan dan fungsinya adalah sebagai tempat menyimpan cadangan makanan, menampung proses pencernaan, dan mengatur konsentrasi air.
+### Sentriol
+#### Definisi dan Konfigurasi Struktur Sentriol
 
+##### 1. Organisasi Subseluler Sentriol
+
+###### A. Definisi dan Lokasi
+
+Sentriol adalah organel sel silindris non-membran yang tersusun atas subunit protein tubulin. Pada sel hewan dan beberapa organisme tingkat rendah (seperti alga tertentu), sepasang sentriol tersusun secara tegak lurus (berorientasi $90^\circ$) di dalam wilayah sitoplasma dekat inti sel yang dinamakan **sentrosom** (_Centrosome_ / _Microtubule Organizing Center_).
+
+###### B. Ultrastruktur Mikrotubulus ($9 + 0$)
+
+Sentriol memiliki simetri radial dengan pola susunan yang sangat spesifik:
+
+- **Susunan Triplet:** Dinding silinder sentriol dibentuk oleh 9 kelompok triplet mikrotubulus (tiap kelompok terdiri dari 3 subunit mikrotubulus yang saling berhubungan, yaitu mikrotubulus A, B, dan C).
+    
+- **Pola $9 \times 3$ ($9 + 0$):** Terdapat 9 triplet di bagian perifer tanpa adanya mikrotubulus di bagian pusat silinder.
+    
+- **Materi Perisentriolar (PCM):** Sepasang sentriol dikelilingi oleh matriks protein kompleks yang kaya akan $\gamma$-tubulin, yang berfungsi menginisiasi nukleasi dan pertumbuhan mikrotubulus.
+    
+
+##### 2. Peran Fisiologis Utama Sentriol
+
+###### A. Pembentukan Benang Spindel dalam Pembelahan Sel
+
+- **Replikasi pada Fase S:** Selama fase interfase (fase S), sepasang sentriol mengalami duplikasi sehingga menghasilkan dua pasangan sentriol (dua sentrosom).
+    
+- **Migrasi pada Profase:** Pada tahap awal mitosis (profase), kedua pasang sentriol berpisah dan bermigrasi ke kutub sel yang berlawanan.
+    
+- **Penyusunan Gelendong Mitosis:** Sentriol bersama matriks perisentriolar memancarkan serat mikrotubulus (aster dan benang spindel) yang mengikat kinetokor kromosom untuk memisahkan kromatid saudara saat anafase.
+    
+
+###### B. Pembentukan Badan Basal (_Basal Body_)
+
+Sentriol berfungsi sebagai prekursor dalam pembentukan **badan basal**, yaitu struktur penjangkar di bawah membran sel tempat tumbuhnya organel pergerakan seperti silia dan flagela:
+
+- Sentriol bermigrasi ke tepi membran sel dan berdiferensiasi menjadi badan basal.
+    
+- Dari badan basal, mikrotubulus tumbuh memanjang membentuk rantai aksonema silia/flagela dengan konfigurasi pola $9 + 2$.
+    
+
+##### 3. Komparasi Keberadaan Sentriol pada Kingdom Biologi
+
+| **Kelompok Organisme**             | **Keberadaan Sentriol**           | **Pusat Pengorganisasi Mikrotubulus (MTOC)**                        |
+| ---------------------------------- | --------------------------------- | ------------------------------------------------------------------- |
+| **Sel Hewan**                      | Ada                               | Sentrosom yang berisi sepasang sentriol                             |
+| **Sel Tumbuhan Tingkat Tinggi**    | Tidak Ada                         | MTOC terdispersi (pembentukan spindel tetap terjadi tanpa sentriol) |
+| **Sel Fungi**                      | Tidak Ada                         | _Spindle Pole Body_ (SPB) terikat pada membran inti                 |
+| **Alga & Tumbuhan Tingkat Rendah** | Ada (pada sel motil/spermatosoid) | Sentrosom / Badan Basal                                             |
 # Microscope
-
-# English
-
-The image displays six functional categories of microscopes, differentiated primarily by their illumination sources, optical configurations, resolution limits, and intended biological or material applications.
-
-### 1. Light Microscope (*Mikroskop Cahaya*)
-
-- **Illumination Source:** Visible light (halogen, LED, or natural mirror reflection).
-- **Working Principle:** Visible light passes through a thin specimen and is magnified via a series of glass lenses (objective and eyepiece lenses).
-- **Key Feature:** Relies on natural specimen color or chemical staining to generate contrast (brightfield imaging).
-- **Primary Application:** Routine observation of stained tissues, blood smears, microalgae, and general cellular morphology.
-- **Resolution/Magnification:** Up to $\approx 1,000\times - 1,500\times$ magnification; spatial resolution is physically limited by light diffraction to $\approx 200\text{ nm}$.
-
-### 2. Electron Microscope (*Mikroskop Elektron*)
-
-- **Illumination Source:** Accelerated beam of electrons.
-- **Working Principle:** Uses electromagnetic coils instead of optical glass lenses to focus electrons onto or through a specimen in a vacuum. Signals are captured electronically to form digital images.
-- **Key Feature:** Wavelengths of electrons are significantly shorter than visible light photons, permitting vastly superior resolving power.
-- **Primary Application:** Visualization of sub-cellular organelles, viral structures, protein complexes, and nanoscale surface topographies (via Transmission Electron Microscopy [TEM] or Scanning Electron Microscopy [SEM]).
-- **Resolution/Magnification:** Up to $\approx 1,000,000\times$ magnification; resolution reaches sub-nanometer levels ($<0.2\text{ nm}$).
-
-### 3. Phase Contrast Microscope (*Mikroskop Fase Kontras*)
-
-- **Illumination Source:** Visible light, coupled with specialized optical rings (phase annular diaphragms and phase plates).
-- **Working Principle:** Unstained live cells are mostly transparent and alter light phase rather than light amplitude (brightness). This microscope converts phase shifts caused by refractive index variations within the cell into visible brightness variations.
-- **Key Feature:** Eliminates the need to fix or stain specimens.
-- **Primary Application:** Observation of living, unstained cells, cell division (mitosis), and intracellular organelle movement in real time.
-
-### 4. Stereo Microscope (*Mikroskop Stereo*)
-
-- **Illumination Source:** Visible reflected or transmitted light.
-- **Working Principle:** Employs two separate optical paths with distinct objective lenses and eyepieces for each eye, producing a three-dimensional (binocular stereo) visual perspective.
-- **Key Feature:** Provides a large working distance, long depth of field, and true 3D spatial perception, but operates at low magnification.
-- **Primary Application:** Dissection, microsurgery, quality control of electronic components, and examination of intact macro-specimens (such as insects, leaves, or anatomical tissue surfaces).
-- **Resolution/Magnification:** Typically ranges from $10\times$ to $100\times$ magnification.
-
-### 5. Fluorescence Microscope (*Mikroskop Pender*)
-
-- **Illumination Source:** High-intensity light sources (mercury/xenon arc lamps or narrow-band lasers).
-- **Working Principle:** Excitation light of a specific short wavelength (e.g., ultraviolet or blue light) is directed at a specimen labeled with fluorescent dyes (fluorophores) or proteins (e.g., GFP). The fluorophores absorb this light and emit light at a longer, lower-energy wavelength, which is captured by specialized emission filters.
-- **Key Feature:** Exceptional chemical and molecular specificity, enabling target molecules to glow bright against a dark background.
-- **Primary Application:** Tracking specific proteins, gene expression, immunological assays, and live-cell molecular dynamics.
-
-### Summary Comparison
 
 | **Microscope Type** | **Primary Energy Source** | **Main Advantage** | **Primary Limitation** |
 | --- | --- | --- | --- |
@@ -345,3 +399,4 @@ Berikut adalah penjelasan mengenai perbedaan dari keenam jenis mikroskop tersebu
 | **Stereo**          | Cahaya Tampak                    | Pandangan 3D; jarak kerja fisik yang luas        | Perbesaran maksimum terbatas                         |
 | **Pender**          | Cahaya Intensitas Tinggi / Laser | Deteksi molekul dan protein yang sangat spesifik | *Photobleaching* (pudar) & potensi toksisitas cahaya |
 ![[Pasted image 20260726215059.png]]
+# Pembelahan Sel
